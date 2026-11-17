@@ -1,0 +1,8 @@
+{
+  "name": "Python 類別與物件學習網頁",
+  "description": "互動式 Python 物件導向程式設計學習平台，透過視覺化藍圖與即時實例記憶體池掌握 Class、Object、self、繼承與封裝，並附帶 GitHub 與 Netlify 部署指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
